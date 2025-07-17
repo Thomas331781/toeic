@@ -1,7 +1,21 @@
+    *{
+
+        padding: 0;
+        margin: 0;
+
+    }
+
     h1 {
             color: aquamarine;
             font-size:50px;
     }
     p {
             color: rgb(84, 19, 111);
+    }
+
+    header, section, footer{
+        background-color: burlywood;
+        border:5px #9d8189 solid;
+        padding: 30px; 
+        margin: 30px;
     }
